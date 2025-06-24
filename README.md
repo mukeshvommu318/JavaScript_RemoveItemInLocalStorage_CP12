@@ -1,0 +1,1 @@
+# JavaScript_RemoveItemInLocalStorage_CP12
